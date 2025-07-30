@@ -3,7 +3,7 @@
 
 This mod makes some items that cannot be stacked become stackable and some items that can only be stacked up to 16 become stackable up to 64. 
 
-*What does Obtainable End do?*
+*What does Stackable Items do?*
 -----
 
 create Totem of Undying, Ender Pearl, Egg, Snowball, Beds, Minecarts, Banners, Boats, Potion, Bucket and more stackable up to 64
